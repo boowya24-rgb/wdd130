@@ -3,15 +3,14 @@
 
 body {
   background-color: #fcfbfb;
-  font-family: 'Raleway', Arial, sans-serif; /* body text font */
-  font-size: 22px; /* default font size */
-  margin: 0;
+  font-family: 'Raleway', Arial, sans-serif;
+  font-size: 22px; 
   padding: 0;
 }
 
 .home-title {
-  font-family: 'Rock Salt', 'Bradley Hand', cursive; /* headline font */
-  font-size: 2em; /* twice the normal text size */
+  font-family: 'Rock Salt', 'Bradley Hand', cursive; 
+  font-size: 2em; 
 }
 
 #content {
@@ -58,7 +57,7 @@ nav a:hover {
   font-size: 18px;
 }
 .msg {
-  line-height: 1.5em; /* adds more space between lines */
+  line-height: 1.5em; 
 }
 
 
