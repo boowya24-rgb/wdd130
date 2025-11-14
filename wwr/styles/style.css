@@ -262,3 +262,21 @@ footer a:hover {
     margin-top: 25px;
   }
 }
+
+
+/* ---------- RAPIDS PAGE LAYOUT ---------- */
+
+.rapids-content {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px;
+  line-height: 1.6;
+}
+
+.rapids-img {
+  width: 100%;
+  max-width: 600px;
+  display: block;
+  margin: 20px auto;
+  box-shadow: 5px 5px 10px #6f7364;
+}
